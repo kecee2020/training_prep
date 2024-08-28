@@ -14,4 +14,6 @@ CRUD | Create / Read / Update / Delete
 
 This OOP To-Do Project is Totally Free!
 
+Kazeem Training Slide
+
 JS OOP To-Do List.
